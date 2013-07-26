@@ -1,0 +1,9 @@
+{
+  "name": "assemble-liquid-node",
+  "description": "Assemble engine plugin for LiquidNode templates.",
+  "version": "0.1.0",
+  "repo": "assemble/assemble-liquid-node",
+  "main": [
+    "./lib/assemble-liquid-node.js"
+  ]
+}
