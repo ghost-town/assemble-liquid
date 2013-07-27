@@ -1,6 +1,6 @@
-# assemble-liquid-node
+# assemble-liquid
 
-> Assemble engine plugin for LiquidNode templates.
+> Assemble engine plugin for processing liquid templates.
 
 See [assemble](http://assemble.io) for documentation.
 
