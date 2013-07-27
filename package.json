@@ -1,8 +1,8 @@
 {
-  "name": "assemble-liquid-node",
+  "name": "assemble-liquid",
   "description": "Assemble engine plugin for LiquidNode templates.",
   "version": "0.1.0",
-  "homepage": "https://github.com/assemble/assemble-liquid-node",
+  "homepage": "https://github.com/assemble/assemble-liquid",
   "author": {
     "name": "Assemble",
     "url": "https://github.com/assemble/assemble"
@@ -19,18 +19,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/assemble/assemble-liquid-node.git"
+    "url": "git://github.com/assemble/assemble-liquid.git"
   },
   "bugs": {
-    "url": "https://github.com/assemble/assemble-liquid-node/issues"
+    "url": "https://github.com/assemble/assemble-liquid/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/assemble/assemble-liquid-node/blob/master/LICENSE-MIT"
+      "url": "https://github.com/assemble/assemble-liquid/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "./lib/assemble-liquid-node",
+  "main": "./lib/assemble-liquid",
   "engines": {
     "node": ">= 0.8.0"
   },
